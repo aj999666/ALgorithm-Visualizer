@@ -1,0 +1,19 @@
+.grid-row {
+  height: 25px;
+}
+
+.grid-wrapper {
+  width: 100%;
+  height: 90vh;
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.PathfindingVisualizer {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

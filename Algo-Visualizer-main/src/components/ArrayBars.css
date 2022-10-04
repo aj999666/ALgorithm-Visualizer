@@ -1,0 +1,7 @@
+.array-container {
+  width: 85vw;
+  transform: rotateX(0) translateY(1px);
+  min-height: 90vh;
+  max-height: auto;
+  margin-bottom: 10px;
+}

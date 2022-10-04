@@ -1,0 +1,6 @@
+.array-bar {
+  width: 100%;
+  display: inline-block;
+  background-color: var(--color-secondary);
+  transition: height 0.25s ease-in-out;
+}
